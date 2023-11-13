@@ -1,5 +1,3 @@
-
-
 /**
  *
  * @author DDMeM
@@ -11,6 +9,7 @@ public class jav {
      */
     public static void main(String[] args) {
         System.out.println("the image is working fine");
+        System.out.println("Mohamed Elgizawy");
     }
     
 }
